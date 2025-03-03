@@ -1,2 +1,2 @@
-# softuni-react-workshop-userl-ist
+# softuni-react-workshop-user-list
 React Components Workshop
